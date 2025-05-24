@@ -1,0 +1,21 @@
+[project]
+name = "mcp-ollama-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncio>=3.4.3",
+    "httpx>=0.28.1",
+    "mcp>=1.9.1",
+    "pydantic>=2.11.4",
+    "python-dotenv>=1.1.0",
+    "typing-extensions>=4.13.2",
+]
+
+[dependency-groups]
+dev = [
+    "black>=25.1.0",
+    "mypy>=1.15.0",
+    "pytest>=8.3.5",
+]
