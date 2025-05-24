@@ -46,7 +46,7 @@ AUTH_KEY=your_auth_key
 > Sign up on https://cryptopanic.com/developers/api/ and get your own Auth keys.
 ### 4. Start the MCP tool servers manually
 ```bash
-python main.py
+python client.py
 ```
 The system will:
 
