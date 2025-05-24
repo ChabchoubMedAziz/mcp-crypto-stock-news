@@ -20,7 +20,7 @@ A modular, agent-based system for real-time stock prices, cryptocurrency news, a
 - **Agent Framework:** LangGraph
 - **LLM Provider:** Ollama (`qwen3:1.7b`)
 - **Tool Communication Layer:** LangChain MCP Adapter
-- **Tool Servers:** Custom Python servers (e.g., `crypto_news.py`, `server.py`)
+- **Tool Servers:** Custom Python servers (e.g., `crypto_news.py`, `stock_news.py`)
 
 ---
 
@@ -29,8 +29,8 @@ A modular, agent-based system for real-time stock prices, cryptocurrency news, a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ChabchoubMedAziz/mcp-crypto-stock-news.git
+cd mcp-crypto-stock-news
 ```
 
 ### 2. Install dependencies
