@@ -1,4 +1,4 @@
-# 🧠 Multi-Agent Financial Intelligence System
+# 🧠 Stock & Crypto MCP Server with Local AI Agent
 
 A modular, agent-based system for real-time stock prices, cryptocurrency news, and financial analysis using [MCP (Multi-Component Protocol)](https://modelcontextprotocol.io/introduction) servers, LangGraph agents, and LLMs (Ollama + Qwen3).
 
